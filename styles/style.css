@@ -50,7 +50,7 @@ header nav{
 }
 
 .all-categories {
-    background-color: #F4F4F4;
+    background-color: red; !important;  ;
     padding: 10px 0 20px;
 }
 
@@ -66,4 +66,9 @@ header nav{
 small {
     font-size: 80%;
     font-weight: 400;
+}
+
+#subscribe{
+    background-color: blue;
+    color: #fff;
 }
