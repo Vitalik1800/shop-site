@@ -3,6 +3,10 @@ header nav{
     color: #fff;
 }
 
+h1{
+    color: #fff !important;
+}
+
 .container .nav-link:nth-child(1){
     color: #fff;
 }
